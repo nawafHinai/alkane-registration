@@ -20,7 +20,7 @@
     "graphql": "^14.4.2",
     "morgan": "^1.9.1",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.18",
+    "typeorm": "^0.2.25",
     "typescript": "^3.5.3"
   },
   "scripts": {
